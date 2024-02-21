@@ -21,6 +21,7 @@ const seo = {
 const greeting = {
   title: "Farjia Taha",
   logo_name: "Farjia Taha",
+  portfolio_repository:"https://drive.google.com/file/d/1p87s2LEQ2LWLOtHBQgaaEhKspAGG17FW/view?usp=sharing",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
@@ -115,9 +116,9 @@ const skills = {
       title: "Backend Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building CI/CD pipelines for fast development",
+        "⚡ Collaborating with frontend devs to create web applications",
+        "⚡ Creating scalable application backend in Django, Fastapi & Flask",
       ],
       softwareSkills: [
         {
